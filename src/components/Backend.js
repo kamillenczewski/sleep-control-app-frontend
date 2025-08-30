@@ -1,9 +1,3 @@
-// wrzucenie frontendu na githuba
-// ale potrzebujemy klucza do autentykacji
-// zeby byl ukryty w headerasach i jakos zarządzać tym
-// polaczenie opcji z dzialaniem tj barColor -> zmieniajacy sie kolor slupkow
-// ...dalej stworzenie kolejnej tabeli do przechowywania userow ktorych wybralismy do naszego wykresuS
-
 import secret from '@/other/secret.json';
 
 const MAIN_URL = secret['MAIN_URL'];
